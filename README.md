@@ -6,3 +6,5 @@ Cree subclases para diferentes tipos de elementos de menú: herede de MenuItem y
 Definir una clase Order: Esta clase debe tener una lista de objetos MenuItem y métodos para agregar artículos, calcular el monto total de la factura y potencialmente aplicar descuentos específicos según la composición del pedido.
 
 Diagrama UML del ejercicio de la clase Menú: 
+
+ ![image](https://github.com/user-attachments/assets/b2d0651d-3718-48a5-a533-fc2062ccc95b)
